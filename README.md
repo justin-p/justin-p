@@ -1,1 +1,1 @@
-![](ab1e3090cf719d28cfbfdafe2516fbdb.gif)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIk0iGpJrAmjTpmPT7fWrsMLk-jkeHvwYycg&usqp=CAU)
