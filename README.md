@@ -1,1 +1,1 @@
-![](https://ph-files.imgix.net/caf5608a-67ec-4f9f-acb5-db0052c33bed?auto=format) ![](https://ph-files.imgix.net/caf5608a-67ec-4f9f-acb5-db0052c33bed?auto=format) ![](https://ph-files.imgix.net/caf5608a-67ec-4f9f-acb5-db0052c33bed?auto=format)
+![](https://vignette.wikia.nocookie.net/partyparrot/images/5/5f/Congaparrot.gif/revision/latest/top-crop/width/360/height/450?cb=20170401184112) ![](https://vignette.wikia.nocookie.net/partyparrot/images/5/5f/Congaparrot.gif/revision/latest/top-crop/width/360/height/450?cb=20170401184112)
