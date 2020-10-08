@@ -11,4 +11,6 @@
 ![p][1]![p][1]![p][1]![p][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![p][1]![p][1]![p][1]![p][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]    
 ![p][1]![p][1]![p][1]![p][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![p][1]![p][1]![p][1]![p][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]![p][1]    
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justin-p&show_icons=true&theme=nord)
+
 [1]: https://ppaas.herokuapp.com/partyparrot/congaparrot?overlay=&overlayWidth=20&overlayHeight=20&overlayOffsetX=5&overlayOffsetY=-12
